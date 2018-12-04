@@ -1,0 +1,50 @@
+tajul_c is already declared
+
+tajul_b is already declared
+
+
+Valid declaration
+
+(tajul_a) Value of the variable: 8	
+
+(tajul_b) Value of the variable: 4	
+
+tajul_ad not declared yet
+Undefined Character(s).
+Undefined Character(s).
+inc: 9
+
+value of expression: 9
+
+value of expression: 13
+
+value of expression: 23
+
+</> Condition value zero in IF block
+
+</> Value of expression in IF: 16
+
+</> Value of expression in ELSE: 13
+
+ </> for loop statement
+
+ </> for loop statement
+
+ </> for loop statement
+
+ </> for loop statement
+
+ </> While LOOP: 0 1 2 3 4 5 
+	Value of the expression: 6
+
+Case No : 2  and Result :  5
+
+SWITCH case.
+
+
+---- Single line comment ---- 
+
+---- Multi line comment ---- 
+
+
+----------Successful compilation-------------

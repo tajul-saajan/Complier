@@ -1,0 +1,80 @@
+main_func LP RP
+
+LB
+	
+	//This is a single line comment  
+	/c/Multiline
+	comment
+	/c/
+
+	int_a  tajul_a CM  tajul_b CM tajul_c CM tajul_c CM tajul_b #
+	tajul_a eq 8 #
+	tajul_b eq 4 #
+	tajul_ad eq 8 #
+	pp 8 pp #
+	mm 4 mm #
+	1 add 12 div 4 mul 4 #
+	18 sub 15 add 8 div 2 mul 5 #
+
+	10 exp 2 #
+
+
+	JODI LP 5 add 3 sub 8 RP
+		LB
+			12 add 8 div 2 #
+		RB
+		
+	JODI LP 5 add 8 RP
+		LB
+			4 exp 2 #
+
+		RB
+
+	JODI LP 7 lt 5 RP
+		LB
+			2 add 7 add 6 mul 2 sub 18 div 3 #
+		RB
+	OTHOBA
+		LB
+			6 add 8 div 4 add 2 mul 3 sub 1 #
+		RB
+		
+
+	for_loop LP 2 : 6 RP 
+	LB 
+		4 add 9 
+	RB
+
+	while_loop LP 0 gt 5 RP 
+	LB 
+		8 add 2 
+	RB
+
+	Suitch LP 9 RP 
+	LB 
+		kase 1 : 4 add 2 # 
+		kase 2 : 3 add 2 #
+		def    : 99 # 
+	RB 
+
+	JODI LP 5 le 9 RP 
+	LB 
+		JODI LP 8 ge 8 RP 
+		LB 
+			3 add 3 # 
+		RB 
+		OTHOBA 
+		LB 
+			9 add 9 #   
+		RB 
+		81 add 81 # 
+	RB
+	OTHOBA
+	LB 
+		88 add 88 # 
+	RB
+
+	
+
+	
+RB

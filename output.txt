@@ -1,0 +1,64 @@
+
+---- Single line comment ---- 
+
+
+---- Multi line comment ---- 
+
+	Error : tajul_c is already declared
+
+	Error : tajul_b is already declared
+
+
+Valid declaration
+
+(tajul_a) Value of the variable: 8	
+
+(tajul_b) Value of the variable: 4	
+
+	Error : tajul_ad not declared yet
+
+
+Incremented Value : 9
+
+value of expression: 9
+
+Decremented Value : 3
+
+value of expression: 3
+
+value of expression: 13
+
+value of expression: 23
+
+10 power 2 = 100
+
+value of expression: 100
+
+</> Condition value zero in IF block
+
+4 power 2 = 16
+
+</> Value of expression in IF: 16
+
+</> Value of expression in ELSE: 13
+
+ </> for loop statement
+
+ </> for loop statement
+
+ </> for loop statement
+
+ </> for loop statement
+
+ </> While LOOP: 0 1 2 3 4 5 
+	Value of the expression: 10
+
+Result in default Value is :  99 
+</> SWITCH case completed.
+
+value of expression middle IF: 6
+
+value of expression in first IF: 162
+
+
+<----------$ Compilation Successful $------------>
